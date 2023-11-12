@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+- React.js is a JavaScript Library developed by Facebook. 
+- In React we have "Reusable components". Developer can utilize these components when ever developer wants.
