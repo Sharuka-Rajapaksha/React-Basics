@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+- `npm start`: Runs the app in the development mode.
+- `npm` means for Node Package Manager.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -71,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## What is React?
 React.js is a JavaScript Library developed by Facebook. 
-In React we have "Reusable components". We can develop different components and can call the relevant component in the required place.
+In React we have "Reusable components".
