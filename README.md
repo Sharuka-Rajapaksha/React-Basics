@@ -1,6 +1,4 @@
-# Getting Started with Create React.js
-
-## Available Scripts
+# React
 
 In the project directory, you can run:
 
