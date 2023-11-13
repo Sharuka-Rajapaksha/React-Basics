@@ -1,4 +1,4 @@
-# React Project 01
+## React Project 01
 
 <h4> This project is developed to Learn React, JavaScript, Node.js, HTML, CSS, Git Version Control & GitHub </h4> 
 
